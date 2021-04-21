@@ -1,4 +1,3 @@
 <template>
-  <mdi-account />
-  <p>NotesApp</p>
+  <NavBar />
 </template>
